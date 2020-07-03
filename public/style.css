@@ -1,0 +1,14 @@
+.container {
+	text-align: center;
+}
+
+.section {
+	margin: 30px;
+	text-align: center;
+	width: 100%;
+}
+
+.table {
+	width: 100%;
+	text-align: left;
+}
